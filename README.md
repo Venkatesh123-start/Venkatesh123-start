@@ -1,6 +1,7 @@
-# 💫 Intrested to know About:
+# 💫 Intrested to know About me:
 👋 Hi, I’m @Venkatesh123-start B Venkatesh<br>👀 I’m interested in Programming<br>🌱 I’m currently learning Computer Science and Engineering<br>💞️ I’m looking to collaborate on ongoing or best valuable project's related to Data Science and Web development teams and more.<br>📫 How to reach me Just follow my profile and comment to my repositories.<br>😄 Pronouns: Mr. / Student<br>⚡ Fun fact: The World is Developing !!!
 
+![WhatsApp Image 2024-12-30 at 20 29 10_54d81eb9](https://github.com/user-attachments/assets/8df2336b-9e94-4967-96e5-1daa9a011961)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EHxcW3gm) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086658115598) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1_venkatesh_b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/b-venkatesh-765935278) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BVenkatesh14041) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@b.venkatesh732) 
