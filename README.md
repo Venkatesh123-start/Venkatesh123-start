@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Venkatesh123-start&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh123-start&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh123-start&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh123-start&theme=dark&show_icons=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Venkatesh123-start&theme=radical&no-frame=false&no-bg=true&margin-w=4)
