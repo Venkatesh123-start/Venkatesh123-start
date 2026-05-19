@@ -1,83 +1,43 @@
+# 💫 Intrested to know About me:
 
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20Venkatesh!&fontSize=35&animation=twinkling)
 
-# 💫 About Me
+👋 Hi, I’m **@Venkatesh123-start B Venkatesh**<br>👀 I’m interested in Programming<br>🌱 I’m currently learning Computer Science and Engineering<br>💬 Looking to collaborate on ongoing and future projects <br>📫 How to reach me Just follow my profile and comment to my repositories.<br>⚡ Fun fact: I love exploring new technologies...!!!
 
-👋 Hi, I’m **@Venkatesh123-start (B Venkatesh)**  
-👀 I’m interested in Programming  
-🌱 I’m currently learning Computer Science and Engineering  
-💬 Looking to collaborate on ongoing and future projects  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/venkateshb-676033280)  
-⚡ Fun fact: I love exploring new technologies!
+![WhatsApp Image 2024-12-30 at 20 29 10_54d81eb9](https://github.com/user-attachments/assets/8df2336b-9e94-4967-96e5-1daa9a011961)
 
-<p align="center">
-  <img src="https://svgur.com/s/jkF" alt="Retro OS Game Box" width="260" height="260" style="border-radius: 15px; border: 2px solid #ccc;" />
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/prince059964) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086658115598) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1_venkatesh_b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/b-venkatesh-765935278) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BVenkatesh14041) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@b.venkatesh732) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
 
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086658115598)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_venkatesh__123/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateshb-676033280)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Venkatesh_123)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://twitter.com/Venkates6857)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@venkateshstart96)
-
----
-
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-| 📊 | 🔥 | 🛠️ |
-|:--:|:--:|:--:|
-| ![Venkatesh123-start's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkatesh123-start&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh123-start&theme=dark&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh123-start&theme=dark&show_icons=true&layout=compact) |
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Venkatesh123-start&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh123-start&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh123-start&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh123-start&theme=dark&show_icons=true)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Venkatesh123-start&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Venkatesh123-start&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repos
-
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Venkatesh123-start&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<sub>If you don’t see a card above, try pinning your top repositories on your GitHub profile for better visibility or the service may be temporarily unavailable.</sub>
-
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Venkatesh123-start&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 👁️ Visitor Badge
-
 [![Visitor Count](https://komarev.com/ghpvc/?username=Venkatesh123-start&style=for-the-badge&label=Visitors)](https://github.com/Venkatesh123-start)
 
 ---
 
-## 💰 Support Me
+<!-- <a href="https://visitcount.itsvg.in">
+ <img src="https://visitcount.itsvg.in/api?id=Venkatesh123-start&label=Visitors%20Eye!&icon=8&pretty=true" />
+</a> -->
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/2004venkate)
+ ## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/2004venkate)
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
