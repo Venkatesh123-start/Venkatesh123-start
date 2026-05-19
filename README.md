@@ -2,9 +2,9 @@
 
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20Venkatesh!&fontSize=35&animation=twinkling)
 
-👋 Hi, I’m **@Venkatesh123-start B Venkatesh**<br>👀 I’m interested in Programming<br>🌱 I’m currently learning Computer Science and Engineering<br>💬 Looking to collaborate on ongoing and future projects <br>📫 How to reach me Just follow my profile and comment to my repositories.<br>⚡ Fun fact: I love exploring new technologies...!!!
-
 ![WhatsApp Image 2024-12-30 at 20 29 10_54d81eb9](https://github.com/user-attachments/assets/8df2336b-9e94-4967-96e5-1daa9a011961)
+
+👋 Hi, I’m **@Venkatesh123-start B Venkatesh**<br>👀 I’m interested in Programming<br>🌱 I’m currently learning Computer Science and Engineering<br>💬 Looking to collaborate on ongoing and future projects <br>📫 How to reach me Just follow my profile and comment to my repositories.<br>⚡ Fun fact: I love exploring new technologies...!!!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/prince059964) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086658115598) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1_venkatesh_b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/b-venkatesh-765935278) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@BVenkatesh14041) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@b.venkatesh732) 
