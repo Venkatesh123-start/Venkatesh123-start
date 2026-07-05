@@ -3,7 +3,20 @@
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20Venkatesh!&fontSize=35&animation=twinkling)
 ![WhatsApp Image 2024-12-30 at 20 29 10_54d81eb9](https://github.com/user-attachments/assets/8df2336b-9e94-4967-96e5-1daa9a011961)
 
-👋 Hi, I’m **@Venkatesh123-start B Venkatesh**<br>👀 I’m interested in Programming<br>🌱 I’m currently learning Computer Science and Engineering<br>💬 Looking to collaborate on ongoing and future projects <br>📫 How to reach me Just follow my profile and comment to my repositories.<br>⚡ Fun fact: I love exploring new technologies...!!!
+<!-- 👋 Hi, I’m **@Venkatesh123-start B Venkatesh**<br>👀 I’m interested in Programming<br>🌱 I’m currently learning Computer Science and Engineering<br>💬 Looking to collaborate on ongoing and future projects <br>📫 How to reach me Just follow my profile and comment to my repositories.<br>⚡ Fun fact: I love exploring new technologies...!!! -->
+👋 Hi, I'm **B Venkatesh**, a Computer Science & Engineering graduate passionate about architecting intelligent systems, data-driven applications, and robust backend software. 
+
+* 🚀 **Current Focus:** Actively interviewing for Software Engineering and AI/ML Developer roles.
+* 🌱 **Continuously Expanding:** Advanced Deep Learning frameworks, scalable cloud architectures, and production-level automation.
+* 🤝 **Open to Collaborations:** Open-source AI initiatives, innovative full-stack frameworks, and engineering hackathons.
+* ⚡ **Beyond the Code:** When I'm not optimizing algorithms or debugging Python scripts, you can find me analyzing positional strategies on the chess board.
+
+---
+
+## 🛠️ Featured Projects
+* **[HEALTH-PASSPORT-BLOCKCHAIN-MEETS-AI-FOR-WELLNESS-](https://github.com/Venkatesh123-start/HEALTH-PASSPORT-BLOCKCHAIN-MEETS-AI-FOR-WELLNESS-)** - A decentralized digital healthcare system that securely handles medical records using blockchain while leveraging AI for predictive health insights.
+* **[Smart-Dev-Productivity-Hub](https://github.com/Venkatesh123-start/Smart-Dev-Productivity-Hub)** - An AI-powered dashboard designed for developer productivity, integrated with GenAI and Pieces Copilot.
+* **[AICTE-Intern_Project-Potato_Leaf_disease](https://github.com/Venkatesh123-start/AICTE-Intern_Project-Potato_Leaf_disease)** - A deep learning framework focused on agricultural computer vision, detecting plant diseases using custom convolutional networks.
 
 ## 🌐 Socials:
 <!-- (discordapp.com/users/prince059964) -->
